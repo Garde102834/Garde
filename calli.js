@@ -66,7 +66,7 @@ calli.on("message", message => {
   }
 });
 ///////////////////////////////////////////////////////////////////////////////
-calli.login("https://discord.com/api/oauth2/authorize?client_id=1074685569248002059&permissions=8&scope=bot")
+calli.login("MTAwNzM1MjY5OTg2OTczNzAzMA.Gx63I8.JiMvDgbw4K0nv7YsAgBLi5YG19Bb9oOHIuYvJU")
 ///////////////////////////////////////////////////////////////////////////////
 const callienabled  = "";
 const callidisabled = "";
